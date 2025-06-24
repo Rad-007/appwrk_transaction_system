@@ -3,8 +3,6 @@
 
 A full-stack web application to manage and track office cash flow with support for credit and debit entries and automatic running balance calculation.
 
----
-
 ## 🧱 Tech Stack
 
 | Layer     | Technology     |
