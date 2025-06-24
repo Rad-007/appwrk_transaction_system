@@ -1,12 +1,7 @@
-Here’s a complete `README.md` for your **Transaction Management System** project built with Flask (backend), React (frontend), and SQLite (database):
-
----
 
 # 💼 Office Transaction Management System
 
 A full-stack web application to manage and track office cash flow with support for credit and debit entries and automatic running balance calculation.
-
----
 
 ## 🧱 Tech Stack
 
